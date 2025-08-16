@@ -1,5 +1,5 @@
 
-# 📄 TASK 6: Host a Static Website with GitHub Pages
+# 📄 Host a Static Website with GitHub Pages
 
 ## 🎯 Objective
 Deploy a static HTML website using GitHub Pages for free hosting.
